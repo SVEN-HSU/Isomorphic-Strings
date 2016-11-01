@@ -1,0 +1,6 @@
+D:\C&C++ samples\Isomorphic Strings\Isomorphic Strings\bin\Debug\Isomorphic Strings.exe.config
+D:\C&C++ samples\Isomorphic Strings\Isomorphic Strings\bin\Debug\Isomorphic Strings.exe
+D:\C&C++ samples\Isomorphic Strings\Isomorphic Strings\bin\Debug\Isomorphic Strings.pdb
+D:\C&C++ samples\Isomorphic Strings\Isomorphic Strings\obj\Debug\Isomorphic Strings.csprojResolveAssemblyReference.cache
+D:\C&C++ samples\Isomorphic Strings\Isomorphic Strings\obj\Debug\Isomorphic Strings.exe
+D:\C&C++ samples\Isomorphic Strings\Isomorphic Strings\obj\Debug\Isomorphic Strings.pdb
